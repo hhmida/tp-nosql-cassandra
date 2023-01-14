@@ -2,37 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
     <url>
          <loc>https://hhmida.github.io/tp-nosql-cassandra/index.html</loc>
-         <lastmod>2022-11-30</lastmod>
+         <lastmod>2023-01-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-nosql-cassandra/Collections_UDT.html</loc>
-         <lastmod>2022-11-30</lastmod>
+         <lastmod>2023-01-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-nosql-cassandra/cluster.html</loc>
-         <lastmod>2022-11-30</lastmod>
+         <lastmod>2023-01-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-nosql-cassandra/installation.html</loc>
-         <lastmod>2022-11-30</lastmod>
+         <lastmod>2023-01-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-nosql-cassandra/interrogation.html</loc>
-         <lastmod>2022-11-30</lastmod>
+         <lastmod>2023-01-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-nosql-cassandra/ldd_lmd.html</loc>
-         <lastmod>2022-11-30</lastmod>
+         <lastmod>2023-01-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
     <url>
          <loc>https://hhmida.github.io/tp-nosql-cassandra/python.html</loc>
-         <lastmod>2022-11-30</lastmod>
+         <lastmod>2023-01-14</lastmod>
          <changefreq>daily</changefreq>
     </url>
 </urlset>
